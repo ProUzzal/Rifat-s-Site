@@ -7,7 +7,6 @@ background-color: gray; */
 color: white;
 }
 #navbarSupportedContent{
-
     height: 52px;
 }
 .nav-sec{
@@ -62,6 +61,7 @@ width: 100%;
 .contact{
    
     margin: auto;
+    width: 350px;
 }
 .footer{
     text-align: center;
@@ -84,7 +84,7 @@ form { max-width:420px; margin:50px auto; }
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
-  width:100%;
+  min-width:100%;
   box-sizing: border-box;
   outline:0;
 }
@@ -125,16 +125,8 @@ textarea {
 }
 .progress{
     color: white;
-    font-size: 20px;
-    font-weight: 400px;
+    font-size: 15px;
     height: 40px;
-    padding: 20px;
+    padding: 10px;
 
 }
-.progress-bar-striped{
-   
-}
-.progress-bar-animated{
-   
-}
-.this{}
